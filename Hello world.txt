@@ -1,10 +1,7 @@
 print("Hello world;")
 print("Hello everybody;")
 print("Hello Manzhay;")
-<<<<<<< HEAD
 print("update hello world;")
-=======
 print("Hello Dima;")
->>>>>>> master
-print("Hello my dear friend")
-print("Glad to see you")
+print("Hello my dear friend";)
+print("Glad to see you";)
