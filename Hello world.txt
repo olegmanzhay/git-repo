@@ -6,3 +6,4 @@ print("update hello world")
 =======
 print("Hello Dima")
 >>>>>>> master
+print("Hello my dear friend")
